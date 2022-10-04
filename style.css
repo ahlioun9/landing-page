@@ -69,7 +69,7 @@
   font-size: 18px;
 }
 
-.art-1 button {
+button {
   color: #E5E7EB;
   background-color: #3882F6;
   padding: 6px 16px;
@@ -154,4 +154,39 @@
   font-size: 36px;
   font-weight: bolder;
   text-align: end;
+}
+
+/* Article 4 */
+
+.art-4 .content {
+  padding: 15vh 1rem;
+}
+
+.art-4 .container {
+  background-color: #3882F6;
+  color: #E5E7EB;
+  border-radius: 8px;
+  padding: 1.9rem 4.9rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.art-4 .container h2 {
+  color: #F9FAF8;
+}
+
+.art-4 button {
+  border: 1px solid #E5E7EB;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  padding: 1.2rem;
+  text-align: center;
 }
